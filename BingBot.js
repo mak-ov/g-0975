@@ -6,7 +6,7 @@
 // @author       Alexey Makarov
 // @match        https://www.bing.com/*
 // @icon         data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==
-// @grant        none
+// @grant        none.
 // ==/UserScript==
 
 let links = document.links;
